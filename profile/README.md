@@ -6,8 +6,8 @@ This project was started with the goal of elimintating annoying bugs in already 
 # Directory:
 Currently there are four main repositories:
  - [Server](https://github.com/VRC-Haptics/VRCH-GUI): For handling haptics to game coordination.
- - [Firmware](https://github.com/virtuallyaverage/VRCH-Firmware): To flash and run on the haptic devices.
- - [Hardware](https://github.com/virtuallyaverage/VRCH-Hardware): For guides, printable files, PCB's, and other hardware solutions.
+ - [Firmware](https://github.com/VRC-Haptics/VRCH-Firmware): To flash and run on the haptic devices.
+ - [Hardware](https://github.com/VRC-Haptics/VRCH-Hardware): For guides, printable files, PCB's, and other hardware solutions.
  - Prefabs (Under construction currently): Providing ready-built and configured prefabs to integrate with unity.
 
 # What's next:
